@@ -1,3 +1,9 @@
 name: Lands
 main: org.dilvish.lands.Lands
 version: 0.1
+commands:
+   basic:
+      description: This is a demo command.
+      permission: <plugin name>.basic
+      usage: /<command> [player]
+
