@@ -1,4 +1,4 @@
-package org.cellcode.lands;
+package org.dilvish.lands;
 
 import java.util.logging.Logger;
 
